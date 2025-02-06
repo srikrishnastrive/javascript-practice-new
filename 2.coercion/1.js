@@ -1,0 +1,11 @@
+let y = 12 + "13";
+console.log(y);
+let x = "1" - 1;
+console.log(x);
+let a = "1"+2;
+console.log(a);
+console.log(10 - undefined);
+console.log(10-null);
+console.log(10 -true);
+console.log(10 + Infinity);
+console.log(10 - Infinity);
